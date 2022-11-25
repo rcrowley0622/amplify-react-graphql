@@ -23,7 +23,13 @@ const awsmobile = {
     },
     "aws_cognito_verification_mechanisms": [
         "EMAIL"
-    ]
+    ],
+    "aws_appsync_graphqlEndpoint": "https://gvc6gfukybfjjglemcxpode52q.appsync-api.us-east-1.amazonaws.com/graphql",
+    "aws_appsync_region": "us-east-1",
+    "aws_appsync_authenticationType": "API_KEY",
+    "aws_appsync_apiKey": "da2-jfaadirhnfdw7b4jgpso72ma2q",
+    "aws_user_files_s3_bucket": "filesbucket163807-staging",
+    "aws_user_files_s3_bucket_region": "us-east-1"
 };
 
 
